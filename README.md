@@ -10,6 +10,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+      <!--Redaccion-->  <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->
+<div>
+ <p>
+
+Tengo 23 años y termine mi Tecnico en Informatica en la Universidad Arturo Prat, victoria en el año 2023, actualmente estoy cursando la Ingeniería en Informatica en el Instituto IACC, Santiago. Estoy profundamente facinado con la programación, me parece muy interesante y continuo aprendiendo de forma autodidacta, aspiro a convertirme en un desarrollador Mobile e software aspiro tambien a trabajar para alguna empresa y desarrollar software que tenga un impacto positivo en la sociedad.
+
+Siempre estoy buscando nuevos proyectos en los que trabajar y nuevas personas con las que colaborar. Echa un vistazo a mis repositorios y no dudes en comunicarte conmigo si te gustaría trabajar en alguno de mis proyectos existentes o si crees que encajaría bien en tu proyecto.
+
+Estoy abierto a nuevos retos con disponibilidad inmediata para trabajar en el sector TI.
+
+</div>
+      <!--Redaccion-->  <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
