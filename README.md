@@ -50,7 +50,7 @@
 - **Redes de Contacto**:
   
     <a href="https://www.linkedin.com/in/ivan-jara-melgarejo-0640242a8/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:  IvanJaraMelgarejo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/linkedin:  Ivan Jara Melgarejo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   
   <a href="https://www.instagram.com/_ivan_j.m/)" target="_blank">
