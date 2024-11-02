@@ -50,16 +50,16 @@
 - **Redes de Contacto**:
   
     <a href="www.linkedin.com/in/ivan-jara-melgarejo-0640242a8" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/linkedin:  Ivan Jara Melgarejo?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   
   <a href="https://www.instagram.com/_ivan_j.m/)" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg):  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg):  _ivan_j?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
   </a>
   
   
     <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/gmail:  ivanjaramelgarejo2020@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
     
 <br>
