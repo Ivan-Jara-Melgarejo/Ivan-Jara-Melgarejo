@@ -14,7 +14,7 @@
 <div>
  <p>
 
-Tengo 23 años y termine mi Tecnico en Informatica en la Universidad Arturo Prat, victoria en el año 2023, actualmente estoy cursando la Ingeniería en Informatica en el Instituto IACC, Santiago. Estoy profundamente facinado con la programación, me parece muy interesante y continuo aprendiendo de forma autodidacta, aspiro a convertirme en un desarrollador software para distintos sistemas operativos, aspiro tambien a trabajar para alguna empresa y desarrollar software que tenga un impacto positivo en la sociedad.
+Tengo 23 años y termine mi Tecnico en Informatica en la Universidad Arturo Prat, victoria en el año 2023, actualmente estoy cursando la Ingeniería en Informatica en el Instituto IACC, Santiago. Estoy profundamente facinado con la programación, me parece muy interesante y continuo aprendiendo de forma autodidacta, aspiro a convertirme en un desarrollador software para ordenadores como tambien mobile, aspiro tambien a trabajar para alguna empresa y desarrollar software que tenga un impacto positivo en la sociedad.
 
 Siempre estoy buscando nuevos proyectos en los que trabajar y nuevas personas con las que colaborar. Echa un vistazo a mis repositorios y no dudes en comunicarte conmigo si te gustaría trabajar en alguno de mis proyectos existentes o si crees que encajaría bien en tu proyecto.
 
