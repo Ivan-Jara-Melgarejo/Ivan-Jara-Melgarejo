@@ -13,12 +13,11 @@
       
 <div>
  <p>
+Tengo 23 años y terminé mi Técnico en Informática en la Universidad Arturo Prat, sede Victoria, en el año 2023. Actualmente, estoy cursando Ingeniería en Informática en el Instituto IACC, Santiago. Estoy profundamente fascinado con la programación, me parece muy interesante y sigo aprendiendo de forma autodidacta. Aspiro a convertirme en un desarrollador de software tanto para ordenadores como para dispositivos móviles. También me gustaría trabajar para una empresa en la que pueda desarrollar software que tenga un impacto positivo en la sociedad.
 
-Tengo 23 años y termine mi Tecnico en Informatica en la Universidad Arturo Prat, victoria en el año 2023, actualmente estoy cursando la Ingeniería en Informatica en el Instituto IACC, Santiago. Estoy profundamente facinado con la programación, me parece muy interesante y continuo aprendiendo de forma autodidacta, aspiro a convertirme en un desarrollador software para ordenadores como tambien mobile, aspiro tambien a trabajar para alguna empresa y desarrollar software que tenga un impacto positivo en la sociedad.
+Siempre busco nuevos proyectos en los que trabajar y nuevas personas con las que colaborar. Échale un vistazo a mis repositorios y no dudes en comunicarte conmigo si te gustaría trabajar en alguno de mis proyectos existentes o si crees que podría encajar bien en tu proyecto.
 
-Siempre estoy buscando nuevos proyectos en los que trabajar y nuevas personas con las que colaborar. Echa un vistazo a mis repositorios y no dudes en comunicarte conmigo si te gustaría trabajar en alguno de mis proyectos existentes o si crees que encajaría bien en tu proyecto.
-
-Estoy abierto a nuevos retos con disponibilidad inmediata para trabajar en el sector TI.
+Estoy abierto a nuevos retos y tengo disponibilidad inmediata para trabajar en el sector TI.
 
 </div>
       <!--Redaccion-->  <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->    <!--Redaccion-->   <!--Redaccion-->   <!--Redaccion-->
